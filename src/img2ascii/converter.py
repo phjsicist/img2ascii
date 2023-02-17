@@ -1,4 +1,4 @@
 
 
-class img2ascii:
+class Img2ascii:
     pass
